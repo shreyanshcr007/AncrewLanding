@@ -1,0 +1,184 @@
+{
+  "Header": {
+    "title": "Cloud Service Providers",
+    "paragraph": "To lead excellence on the cloud and help customers turn impractical goals into reality with strategic resources and expertise"
+  },
+  "About": {
+    "paragraph": "Ancrew Global is a global leading cloud consulting and digital transformation partner for organizations. Our technology enthusiasts bring creative problem-solving ideas to the table for the digital transformation needs of businesses. Success for us is when our customers maximize our expertise for buoyant growth and endless opportunities to stay ahead of the pack.",
+    "Why": [
+      "Comprehensive cloud Competencies",
+      "Agile First Approach",
+      "Vast Industry Experience",
+      "Team Across the Globe"
+    ],
+    "Why2": [
+      "Think Big And Deliver Bigger",
+      "Client Satisfaction",
+      "Learning & Development",
+      "High Standard Deliveries"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-cloud",
+      "name": "Cloud and Platform Modernization",
+      "text": "Transform legacy systems into scalable, high-performing cloud-native platforms for agility and efficiency."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "SaaS Product and Platform Development",
+      "text": "Design, develop, and scale cloud-based SaaS solutions to meet evolving business needs."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Cloud Native Application Development & Testing",
+      "text": "Build, deploy, and test resilient, microservices-driven applications optimized for the cloud."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Security as a Service (SECaaS)",
+      "text": "Implement robust, cloud-native security solutions to protect data, applications, and infrastructure."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Cloud Security Engineering",
+      "text": "Enhance cloud security with advanced threat detection, compliance enforcement, and zero-trust architecture."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Cloud Governance & Reporting",
+      "text": "Ensure compliance, optimize cloud costs, and maintain visibility with governance and reporting frameworks."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Exceptional service and expertise! The team transformed our cloud infrastructure seamlessly, making our operations more efficient and scalable.\"",
+      "name": "James Anderson"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Their cloud modernization strategies helped us reduce costs and improve security. A highly professional and knowledgeable team!\"",
+      "name": "William Turner"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"We migrated to a cloud-native solution with their help, and the results have been phenomenal. Performance and agility have improved significantly!\"",
+      "name": "Robert Hughes"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Their SaaS platform development expertise is top-notch! They delivered a robust, scalable, and secure solution that exceeded our expectations.\"",
+      "name": "Emma Watson"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"From cloud security to governance, they provided end-to-end solutions that streamlined our business operations. Truly a game-changer!\"",
+      "name": "Daniel Scott"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Their DevOps and automation expertise helped us accelerate our software delivery pipeline. Highly recommended for any tech-driven business!\"",
+      "name": "Charlotte Bennett"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Jeff Bez",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Tay",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jakie Clev",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Alisha King",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "24/7 Pune",
+    "phone": "+91 123 456 7890",
+    "email": "ancrew@global.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Solutions": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Data Strategy",
+      "text": "Assess the existing data pipeline and design an architecture that fits the requirements and aligns with the data maturity stage."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Cloud Governance and Engineering",
+      "text": "Using Cloud to innovate and take this world to a new future."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Cloud Consulting & Migration",
+      "text": "Our Company provides Next Gen Cloud consulting, strategy and Migration"
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Cloud Discovery and Optimisations",
+      "text": "Exploring the Undiscovered possibilities of Cloud"
+    }
+  ]
+}
