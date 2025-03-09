@@ -18,7 +18,7 @@ export const Navigation = (props) => {
             <span className="icon-bar"></span>{" "}
           </button>
           <a className="navbar-brand page-scroll" href="#page-top">
-            CloudNexa Technologies Pvt. Ltd.
+            CloudNexa Technology Pvt. Ltd.
           </a>{" "}
         </div>
 
